@@ -173,6 +173,21 @@ nav a:hover {
   margin-top: 10px;
   margin-left: 6px;
 }
+article .nova_data{
+  display:flex;
+}
+article .novo_post, .novo_comentario{
+  background-color: #073b77;
+  font-size: 14px;
+  color:#ffffff;
+  padding: 10px;
+  margin-top:20px;
+  margin-right: 2px;
+  
+}
+article .novo_comentario{
+  background-color: #09a8f8;
+}
 .parte2_imagem {
   display: flex;
   flex-wrap: wrap;
@@ -200,6 +215,7 @@ aside a {
 aside a:hover {
   color: #073b77;
 }
+
 .parte2_botao {
   display: flex;
   flex-direction: column;
