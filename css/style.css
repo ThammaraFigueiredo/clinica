@@ -180,7 +180,7 @@ nav a:hover {
 }
 article{
   flex:1;
-  min-width: 270px;
+  min-width: 170px;
   margin-right: 19px;
 }
 article a{
@@ -222,6 +222,7 @@ article .novo_resumo{
   line-height: 20px;
   margin-bottom: 30px;
 }
+
 
 aside a {
   width: 15px;
